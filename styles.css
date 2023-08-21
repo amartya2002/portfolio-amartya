@@ -1,0 +1,14 @@
+ html {
+    
+    
+    cursor: url("icons8-select-cursor-24(1).png"), auto;
+    
+  }
+  
+  .canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+  
