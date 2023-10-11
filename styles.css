@@ -21,6 +21,16 @@
     background-size: 67px 67px;
     background-position: 0 0, 0 0, 0px 9px, 0px 0px;
   }
+
+  .boxes-pattern-dark {
+    background-image:
+      linear-gradient(rgba(32, 32, 32, 0.5) 1px, transparent 1px),
+      linear-gradient(90deg, rgb(37, 1, 1) 1px, transparent 1px),
+      linear-gradient(rgba(32, 32, 32, 0.5) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(32, 32, 32, 0.5) 1px, transparent 1px);
+    background-size: 67px 67px;
+    background-position: 0 0, 0 0, 0px 9px, 0px 0px;
+  }
   
   .cool-pattern {
     background-image: linear-gradient(45deg, #f5f7fa 25%, #e7e9eb 25%, #d9dddf 50%, #c4c6ca 50%, #b7babd 75%, #a2a4a7 75%, #8c8e91 100%);
